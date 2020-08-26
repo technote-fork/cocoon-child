@@ -2,8 +2,12 @@
 
 /*!
 Theme Name: Cocoon Child
+Description: Cocoon専用の子テーマ
+Theme URI: https://wp-cocoon.com/
+Author: わいひら
+Author URI: https://nelog.jp/
 Template:   cocoon-master
-Version:    1.0.7
+Version:    1.1.2
 */
 
 /************************************
@@ -17,22 +21,17 @@ Version:    1.0.7
 /************************************
 ** レスポンシブデザイン用のメディアクエリ
 ************************************/
-/*1240px以下*/
-@media screen and (max-width: 1240px) {
-    /*必要ならばここにコードを書く*/
+/*1023px以下*/
+@media screen and (max-width: 1023px){
+  /*必要ならばここにコードを書く*/
 }
 
-/*1030px以下*/
-@media screen and (max-width: 1030px) {
-    /*必要ならばここにコードを書く*/
-}
-
-/*768px以下*/
-@media screen and (max-width: 768px) {
-    /*必要ならばここにコードを書く*/
+/*834px以下*/
+@media screen and (max-width: 834px){
+  /*必要ならばここにコードを書く*/
 }
 
 /*480px以下*/
-@media screen and (max-width: 480px) {
-    /*必要ならばここにコードを書く*/
+@media screen and (max-width: 480px){
+  /*必要ならばここにコードを書く*/
 }
